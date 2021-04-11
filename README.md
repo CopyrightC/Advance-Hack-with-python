@@ -8,7 +8,7 @@ Powers of `Server.py`
 3. Access to the names of all the users on the victim's computer `(Command - get_user)`
 4. Access to victim's public ip `(Command - public ip)`
 5. Complete access over Victim's mouse `(Command - Click <1> or <2> ; move <x,y>)`
-6. Can boot crash the victim's system(BSOD) (works only on win10)  `(Command - crash)`
+6. Can boot crash the victim's system(BSOD; works only on win10)  `(Command - crash)`
 7. Can shutdown victim's computer anytime `(Command - shutdown)`
 8. Access to ipv4 `(Command - ipv4)`
 9. Can delete permanentely any file/folder on victim's computer `(Command - del <file_path> or delfld <folder_path> )`
