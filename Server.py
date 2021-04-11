@@ -52,4 +52,5 @@ Commmands :
 15.shutdown
 16.crash (works only on win10)
 17.del <file_path>
+18. del_fldr <path>
 '''
