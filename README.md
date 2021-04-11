@@ -21,7 +21,7 @@ Powers of `Server.py`-
 
 8. Can open any url on victim's pc `(Command - openweb <url> )`
 
-9. Access to the victim's computer name `(Command - name)`C
+9. Access to the victim's computer name `(Command - name)`
 
 10. Can get the script's location `(Command - cwd)`
 
