@@ -16,3 +16,8 @@ Powers of `Server.py`
 11. Can open any url on victim's pc `(Command - openweb <url> )`
 12. Access to details of all the programmes running on victim's pc (Just like taskbar) `(Command - pwr Get-Process)`
 13. Can get to the on which OS is the victims's computer running on `(Command - OS)`
+
+# How to get this code working?
+I) Send the `Hack.pyw` script to the victim's computer
+II) Perform port forwarding and enter your `public ip` and `port` in the `Hack.pyw` script
+III) Run the `Server.py` and then run `Hack.pyw` script
