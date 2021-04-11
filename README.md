@@ -2,7 +2,7 @@
 [ONLY FOR WINDOWS]
 
 A advance hacking script made in python.
-This scripts establishes a connection between the victim and the server and then the server can pass on certain hacking commnads to the client script
+This scripts establishes a connection between the victim and the server and then the server can pass on certain commnads to the client script
 
 Powers of `Server.py`-
 1. Access to passwords of all the WIFI's that the victim has ever connected to `(Command - all wifi)`
