@@ -28,12 +28,3 @@ Powers of `Server.py`-
 12. Access to details of all the programmes running on victim's pc (Just like taskbar) `(Command - pwr Get-Process)`
 
 13. Can get to the on which OS is the victims's computer running on `(Command - OS)`
-
-# How to get this code working?
-I) Send the `Hack.pyw` script to the victim's computer
-
-II) On the server side open cmd and run `pip -r install requirements.txt`
-
-III) Perform port forwarding and enter your `public ip` and `port` in the `Hack.pyw` script
-
-IV) Run the `Server.py` and then run `Hack.pyw` script
