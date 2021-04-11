@@ -1,4 +1,6 @@
 # Advance-Hack-with-python
+[ONLY FOR WINDOWS]
+
 A advance hacking script made in python.
 This scripts establishes a connection between the victim and the server and then the server can pass on certain hacking commnads to the client script
 
