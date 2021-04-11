@@ -19,5 +19,7 @@ Powers of `Server.py`
 
 # How to get this code working?
 I) Send the `Hack.pyw` script to the victim's computer
+
 II) Perform port forwarding and enter your `public ip` and `port` in the `Hack.pyw` script
+
 III) Run the `Server.py` and then run `Hack.pyw` script
