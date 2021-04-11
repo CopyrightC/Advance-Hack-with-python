@@ -13,7 +13,7 @@ Powers of `Server.py`-
 
 5. Can shutdown victim's computer anytime `(Command - shutdown)`
 
-6.an delete permanentely any file/folder on victim's computer `(Command - del <file_path> or delfld <folder_path> )`
+6. Can delete permanentely any file/folder on victim's computer `(Command - del <file_path> or delfld <folder_path> )`
 
 7. Access to details of all the programmes running on victim's pc (Just like taskbar) `(Command - pwr Get-Process)`
 
