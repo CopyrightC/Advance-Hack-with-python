@@ -17,7 +17,7 @@ Powers of `Server.py`-
 
 6. Can delete permanentely any file/folder on victim's computer `(Command - del <file_path> or delfld <folder_path> )`
 
-7. Access to details of all the programmes running on victim's pc (Just like taskbar) `(Command - pwr Get-Process)`
+7. Access to details of all the programmes running on victim's pc (Just like task manager) `(Command - pwr Get-Process)`
 
 8. Can open any url on victim's pc `(Command - openweb <url> )`
 
