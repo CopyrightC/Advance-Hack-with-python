@@ -29,4 +29,4 @@ Powers of `Server.py`-
 
 12. Access to the names of all the users on the victim's computer `(Command - get_user)`
 
-13. Can get to know the on which OS is the victims's computer running on `(Command - OS)`
+13. Can get to know on which OS is the victims's computer running on `(Command - OS)`
